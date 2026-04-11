@@ -3,7 +3,7 @@
 <a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=views%20!&color=B8BAF2&labelColor=F4F0F1"/></a>
 <p align="center"
   
-  sign ata dont be shy 
+  sign my ata pretty please : ) 
   <p align="center"
     
 #####  [ata](https://placeholder.atabook.org/) 🪽
