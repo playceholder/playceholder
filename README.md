@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center"
+  
+<a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=views%20!&color=B8BAF2&labelColor=F4F0F1"/></a>
+<p align="center"
+  
+  sign ata dont be shy 
+  <p align="center"
+    
+#####  [ata](https://placeholder.atabook.org/) 🪽
+<p align="center"
 
-<!--
-**playceholder/playceholder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+        src="https://files.catbox.moe/sttbd4.png" 
+        width=50%
+        title="My Image"
+        alt="My Image" >
+<p align="center"
