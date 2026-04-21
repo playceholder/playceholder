@@ -8,7 +8,7 @@
 
 <p align="center"
   
-<a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=views%20!&color=B8BAF2&labelColor=F4F0F1"/></a>
+<a href="https://hits.sh/github.com/playceholder/"><img alt="Hits" src="https://hits.sh/github.com/playceholder.svg?label=views%E3%80%80%EF%B9%92%EF%B9%92&color=E7E4E5&labelColor=E7E4E5"/></a>
 <p align="center"
   
   sign my ata pretty please : ) 
