@@ -15,7 +15,7 @@
 <p align="center"
 
 <img
-        src="https://file.garden/ad0yZQ2NgTRLevqe/tumblr_17911f9bbb633daec795a10dd5523e77_8936de94_1280.png" 
+        src="https://file.garden/ad0yZQ2NgTRLevqe/tumblr_3d9072a1ac78418018b8e506d50e710c_b6632227_2048.png" 
         width=100%
         title="My Image"
         alt="My Image" >
