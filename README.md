@@ -1,5 +1,5 @@
 <img
-        src="https://files.catbox.moe/507org.png" 
+        src="https://file.garden/ad0yZQ2NgTRLevqe/tumblr_b91744c6bf93807c431fe2a369da9dcf_3a473508_1280.png" 
         width=100%
         title="My Image"
         alt="My Image" >
@@ -15,8 +15,8 @@
 <p align="center"
 
 <img
-        src="https://files.catbox.moe/sttbd4.png" 
-        width=50%
+        src="https://file.garden/ad0yZQ2NgTRLevqe/tumblr_17911f9bbb633daec795a10dd5523e77_8936de94_1280.png" 
+        width=100%
         title="My Image"
         alt="My Image" >
 <p align="center"
